@@ -8,7 +8,7 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg">
-  <img alt="Pandas Logo" src="https://pandas.pydata.org/static/img/pandas.svg">
+  <img alt="Pandas Logo" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg">
 </picture>
 
 -----------------
